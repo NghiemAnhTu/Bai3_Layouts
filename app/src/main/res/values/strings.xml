@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bai3_Layout</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="setcolor">Set Coler</string>
+    <string name="clear">Clear</string>
+    <string name="bnt1">Button 1</string>
+    <string name="bnt2">Button 2</string>
+    <string name="bnt3">Button 3</string>
+    <string name="bnt4">Button 4</string>
+    <string name="bnt5">Button 5</string>
+</resources>
